@@ -1,0 +1,69 @@
+{
+  "nextId" : "9",
+  "clients" : [ {
+    "email" : "alpha@gmail.com",
+    "mails" : [ {
+      "id" : "6",
+      "source" : "alpha@gmail.com",
+      "destination" : [ "charlie@gmail.com", "beta@gmail.com" ],
+      "argument" : "PER ENTRAMBI",
+      "text" : "ECCO",
+      "date" : "25/07/2022 - 10:38"
+    }, {
+      "id" : "7",
+      "source" : "beta@gmail.com",
+      "destination" : [ "alpha@gmail.com", "charlie@gmail.com" ],
+      "argument" : "risposta",
+      "text" : "rispo",
+      "date" : "25/07/2022 - 10:39"
+    }, {
+      "id" : "8",
+      "source" : "alpha@gmail.com",
+      "destination" : [ "dkjskdjdkjf@gmail.com" ],
+      "argument" : "err",
+      "text" : "err",
+      "date" : "25/07/2022 - 10:40"
+    }, {
+      "id" : "9",
+      "source" : "no-reply@gmail.com",
+      "destination" : [ "alpha@gmail.com" ],
+      "argument" : "USER DOESN'T EXISTS",
+      "text" : "The user: dkjskdjdkjf@gmail.com from one of the last mails sent doesn't exist",
+      "date" : "25/07/2022 - 10:40"
+    } ]
+  }, {
+    "email" : "beta@gmail.com",
+    "mails" : [ {
+      "id" : "6",
+      "source" : "alpha@gmail.com",
+      "destination" : [ "charlie@gmail.com", "beta@gmail.com" ],
+      "argument" : "PER ENTRAMBI",
+      "text" : "ECCO",
+      "date" : "25/07/2022 - 10:38"
+    }, {
+      "id" : "7",
+      "source" : "beta@gmail.com",
+      "destination" : [ "alpha@gmail.com", "charlie@gmail.com" ],
+      "argument" : "risposta",
+      "text" : "rispo",
+      "date" : "25/07/2022 - 10:39"
+    } ]
+  }, {
+    "email" : "charlie@gmail.com",
+    "mails" : [ {
+      "id" : "6",
+      "source" : "alpha@gmail.com",
+      "destination" : [ "charlie@gmail.com", "beta@gmail.com" ],
+      "argument" : "PER ENTRAMBI",
+      "text" : "ECCO",
+      "date" : "25/07/2022 - 10:38"
+    }, {
+      "id" : "7",
+      "source" : "beta@gmail.com",
+      "destination" : [ "alpha@gmail.com", "charlie@gmail.com" ],
+      "argument" : "risposta",
+      "text" : "rispo",
+      "date" : "25/07/2022 - 10:39"
+    } ]
+  } ]
+}
